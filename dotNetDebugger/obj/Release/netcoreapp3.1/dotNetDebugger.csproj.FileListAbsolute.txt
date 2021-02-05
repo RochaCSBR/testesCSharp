@@ -1,0 +1,13 @@
+C:\Users\daroc\OneDrive\Documentos\_WorkSpace\dotNetDebugger\bin\Release\netcoreapp3.1\dotNetDebugger.exe
+C:\Users\daroc\OneDrive\Documentos\_WorkSpace\dotNetDebugger\bin\Release\netcoreapp3.1\dotNetDebugger.deps.json
+C:\Users\daroc\OneDrive\Documentos\_WorkSpace\dotNetDebugger\bin\Release\netcoreapp3.1\dotNetDebugger.runtimeconfig.json
+C:\Users\daroc\OneDrive\Documentos\_WorkSpace\dotNetDebugger\bin\Release\netcoreapp3.1\dotNetDebugger.runtimeconfig.dev.json
+C:\Users\daroc\OneDrive\Documentos\_WorkSpace\dotNetDebugger\bin\Release\netcoreapp3.1\dotNetDebugger.dll
+C:\Users\daroc\OneDrive\Documentos\_WorkSpace\dotNetDebugger\bin\Release\netcoreapp3.1\dotNetDebugger.pdb
+C:\Users\daroc\OneDrive\Documentos\_WorkSpace\dotNetDebugger\obj\Release\netcoreapp3.1\dotNetDebugger.csprojAssemblyReference.cache
+C:\Users\daroc\OneDrive\Documentos\_WorkSpace\dotNetDebugger\obj\Release\netcoreapp3.1\dotNetDebugger.AssemblyInfoInputs.cache
+C:\Users\daroc\OneDrive\Documentos\_WorkSpace\dotNetDebugger\obj\Release\netcoreapp3.1\dotNetDebugger.AssemblyInfo.cs
+C:\Users\daroc\OneDrive\Documentos\_WorkSpace\dotNetDebugger\obj\Release\netcoreapp3.1\dotNetDebugger.csproj.CoreCompileInputs.cache
+C:\Users\daroc\OneDrive\Documentos\_WorkSpace\dotNetDebugger\obj\Release\netcoreapp3.1\dotNetDebugger.dll
+C:\Users\daroc\OneDrive\Documentos\_WorkSpace\dotNetDebugger\obj\Release\netcoreapp3.1\dotNetDebugger.pdb
+C:\Users\daroc\OneDrive\Documentos\_WorkSpace\dotNetDebugger\obj\Release\netcoreapp3.1\dotNetDebugger.genruntimeconfig.cache
